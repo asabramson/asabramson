@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @asabramson
-- 👀 I’m interested in ... Computer Science!
-- 🌱 I’m currently learning ... CS at WPI!
-- 💞️ I’m looking to collaborate on ... anything that will further my knowledge and experience in the field!
+- 👀 I’m interested in ... CS and AI!
+- 🌱 I’m currently learning ... CS and AI at WPI!
+- 💞️ I’m looking to collaborate on ... research on novel machine learning techniques (see my profile for more info!)
 - 📫 How to reach me ... asabramson@wpi.edu
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... python is my favorite language!
